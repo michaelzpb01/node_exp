@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "staty",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelzpb01/node_exp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelzpb01/node_exp/issues"
+  },
+  "homepage": "https://github.com/michaelzpb01/node_exp#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
